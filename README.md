@@ -109,9 +109,7 @@ Pour exécuter ce projet :
    ```sh
    git clone https://github.com/levist7/Credit_Risk_Modelling.git
 
-2. Install [packages](#technologies)
-
-3. Install python libraries
+2. Install python libraries
    ```sh
    pip3 install -r requirements.txt
    ```

@@ -101,8 +101,6 @@ Projet développé avec :
 * Bibliothèques Python (voir `/requirements.txt`)  
 * VSCode 1.71.2  
 
-Le projet peut également être ouvert directement sur [Google Colab](https://colab.research.google.com) sans aucune installation locale. C’est gratuit, il suffit de créer un compte. Des instructions sont disponibles pour charger un dépôt GitHub sur Google Colab.
-
 ## Démarrage
 
 Pour exécuter ce projet :

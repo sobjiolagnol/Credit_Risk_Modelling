@@ -107,7 +107,7 @@ Pour exécuter ce projet :
 
 1. Cloner le dépôt :
    ```sh
-   git clone https://github.com/levist7/Credit_Risk_Modelling.git
+   git clone https://github.com/sobjiolagnol/Credit_Risk_Modelling.git
 
 2. Install python libraries
    ```sh
